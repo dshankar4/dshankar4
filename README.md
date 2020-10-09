@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-<!--
-**dshankar4/dshankar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on MERN stack projects
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [LinkedIn](https://www.github.com/dshankar4)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 I’m currently working on MERN stack projects
+ 🌱 I’m currently looking forward to learn mobile app development
+ 👯 I’m looking to collaborate on projects
+ 📫 How to reach me: [LinkedIn](https://www.github.com/dshankar4)
+ 
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=dshankar4)
