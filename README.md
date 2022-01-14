@@ -1,10 +1,10 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy/master/wave.gif" width="30px">
     I am Shankar Narayanan D, aspiring Full Stack Developer, passionate about Full Stack, Computer Science, Data Structures
-    and Core Languages C++, Python and JS. As of now I'm a Front-End developer working and contributing several projects
-    related to web app development. And I'm currently studying 3rd Year MSc Theoretical Computer Science at 
-    PSG College of Technology.
+    and Core Languages C++, Python and JS. As of now I'm a Back-End developer working and contributing on several projects
+    related to web app development. And I'm currently studying 4th Year MSc Theoretical Computer Science at 
+    PSG College of Technology, Coimbatore.
     
-- 🔭 I’m currently working on MERN stack projects
+- 🔭 I’m currently working on Python and MERN stack projects
 - 🌱 I’m currently looking forward to learn mobile app development
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shankar-narayanan-d-8b110b17b/)
@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/django%20-%23000.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/next.js%20-%23404d59.svg?&style=for-the-badge"/>
