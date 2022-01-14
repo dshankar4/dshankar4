@@ -5,7 +5,7 @@
     PSG College of Technology, Coimbatore.
     
 - 🔭 I’m currently working on Python and MERN stack projects
-- 🌱 I’m currently looking forward to learn mobile app development
+- 🌱 I’m looking forward to learn mobile app development
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shankar-narayanan-d-8b110b17b/)
 
