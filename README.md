@@ -1,12 +1,11 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy/master/wave.gif" width="30px">
     I am Shankar Narayanan D, aspiring Full Stack Developer, passionate about Full Stack, Computer Science, Data Structures
-    and Core Languages C++, Python and JS. As of now I'm a Back-End developer working and contributing on several projects
-    related to web app development. And I'm currently studying 4th Year MSc Theoretical Computer Science at 
-    PSG College of Technology, Coimbatore.
-    
+    and Core Languages Python and JS. I'm currently studying 4th Year MSc Theoretical Computer Science at 
+    PSG College of Technology, Coimbatore. I have done two internships in Backend development.
+
 - 🔭 I’m currently working on Python and MERN stack projects
 - 🌱 I’m looking forward to learn mobile app development
-- 👯 I’m looking to collaborate on projects
+- 👯 I’m looking for **summer intern 2022** and a **6 month internship** during **Dec 2022 - May 2023**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shankar-narayanan-d-8b110b17b/)
 
 ## &#x1F527; Tools and Technologies
